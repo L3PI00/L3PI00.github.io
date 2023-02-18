@@ -1,0 +1,134 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body style="background-color:PeachPuff;">
+</body>
+<body>
+<img src="logoo.png"width="150"height="150">                                                                     
+<br>
+<center> <h1> <font face="Lucida Bright"><p style="color:DarkOrange;"> Enida </p>  </font> </center> </h1>
+</br>
+
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:BlueViolet;"> Regalos Para Cumpleaños </p></font> </center>
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:BlueViolet;"> MAMA-MUJER-NIÑA </p></font> </center>
+<center><table border="0">
+ <tr>
+<td> <img src="https://scontent.fgye30-1.fna.fbcdn.net/v/t39.30808-6/296011508_493740522751376_135946857372762887_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=mXEb4OFyz0wAX9dZXEb&_nc_ht=scontent.fgye30-1.fna&oh=00_AfCNvk8eHSeX8pCFPp0GWNecJW5SLNYnQ7apa70UoeoFzg&oe=63EC3DC2"width="240"height="200"> </td> <td> <img src="https://i.pinimg.com/564x/0e/ea/4d/0eea4d0bc75fe89cdd5677e3a8b22e75.jpg"width="240"height="200"> </td> 
+</tr>
+<tr>
+<td> <img src="https://i.pinimg.com/564x/90/ad/43/90ad4319598cb528a82baa9b82d094ab.jpg"width="240"height="200"> </td> 
+<td> <img src="https://i.pinimg.com/564x/7f/85/ab/7f85ab705a5a72df0f32f2c6bccbb841.jpg"width="240"height="200"> </td> 
+</tr>
+</table>
+</center>
+</br>
+<br>
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:DarkBlue;">Regalos Para Hombres </p></font> </center>
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:DarkBlue;"> PAPÁ-HOMBRE-NIÑO </p> </font> </center>
+<center><table border="0">
+ <tr>
+<td> <img src="regalo.jpg"width="240"height="200"> </td> 
+<td> <img src="https://frasesgeniales.net/images/703677.jpg"width="240"height="200"> </td> 
+</tr>
+<tr>
+<td> <img src="https://s3v6v2k5.rocketcdn.me/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-17-a-las-9.16.11.png"width="240"height="200"> </td> 
+<td> <img src="https://i.pinimg.com/1200x/a8/99/0f/a8990fb10de0b126f0037a4daa8b4b10.jpg"width="240"height="200"> </td> 
+</tr>
+</table>
+</center>
+</br>
+<br>
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:MediumVioletRed;"> Arreglos Para Quinceañera </p> </font> </center>
+<center><table border="0">
+ <tr>
+<td> <img src="https://i.pinimg.com/1200x/9a/99/14/9a9914ce88ccff19962735f01c6f00e1.jpg"width="240"height="200"> </td> 
+<td> <img src="https://i.pinimg.com/564x/15/c6/ec/15c6ec6f87b75896447ad9faadb40ceb.jpg"width="240"height="200"> </td> 
+</tr>
+<tr>
+<td> <img src="https://i.pinimg.com/originals/99/a8/79/99a87955930a3d77bbd07b1c927a1a89.jpg"width="240"height="200"> </td> 
+<td> <img src="https://i.pinimg.com/564x/d6/36/29/d636294d555167592b82a02300327056.jpg"width="240"height="200"> </td> 
+</tr>
+</table>
+</center>
+</br>
+<br>
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:DarkTurquoise;"> Regalos Para Baby Shower </p> </font> </center>
+<center><table border="0">
+ <tr>
+<td> <img src="https://i.pinimg.com/originals/65/fb/84/65fb84df9f86c232974fb91c5a62b7a5.jpg"width="240"height="200"> </td> 
+<td> <img src="https://i.pinimg.com/564x/e3/7c/28/e37c28d969ca82033d042defe40717b3.jpg"width="240"height="200"> </td> 
+</tr>
+<tr>
+<td> <img src="https://i.pinimg.com/564x/9b/ca/cc/9bcacc4526c1b682845a90a26be1e866.jpg"width="240"height="200"> </td> 
+<td> <img src="https://i.ytimg.com/vi/ZF9jCQZbC-M/maxresdefault.jpg"width="240"height="200"> </td> 
+</tr>
+</table>
+</center>
+</br>
+
+<br>
+<center> <h2> <font face="Comic Sans Ms"> <p style="color:Crimson;"> Regalos Para 14 Febrero </p>  </font> </center>
+<center><table border="0">
+ <tr>
+<td> <img src="https://i.pinimg.com/564x/94/6e/f6/946ef640f9b913084c58db030cc7364a.jpg"width="240"height="200"> </td> 
+<td> <img src="febrer.jpg"width="240"height="200"> </td> 
+</tr>
+<tr>
+<td> <img src="https://i.pinimg.com/1200x/ea/75/58/ea755861f086eca790d6700b6ae62bb1.jpg"width="240"height="200"> </td> 
+<td> <img src="https://i.pinimg.com/564x/77/7b/18/777b1841c7377e835aca74c8c20fb454.jpg"width="240"height="200"> </td> 
+</tr>
+</table>
+</center>
+</br>    
+<hr>
+<center><table border="0">
+<tr> <td> <img src="https://proingra.com/wp-content/uploads/2021/10/21-OCT-BRAHMAN_3.jpg"width="1200"height="540">    </td> 
+</tr> 
+</table>
+<br><center> <h2> <font face="Times"> <p style="color:OliveDrab	;">REPOSTERÍA </p>  </font> </center> </br>
+<center><table border="0">
+ <tr>
+<td> <img src="imagen.jpg"width="240"height="300"> </td> 
+<td><img src="imagen3.jpg"width="280"height="300"> </td> 
+<td> <img src="imagen2.jpg"width="240"height="260"> </td> 
+</tr>
+<tr>
+<td> <img src="imagen4.jpg"width="240"height="300"> </td> 
+<td> <img src="imagen5.jpg"width="280"height="250"> </td> 
+<td> <img src="imagen6.jpg"width="240"height="280"> </td> 
+</tr>
+<tr>
+<td> </td>
+<td> <img src="imagen7.jpg"width="280"height="250">  </td>  
+</tr>
+</table>
+</center>
+</hr>
+<br>
+<hr>
+</hr>
+</br>
+<center><table border="0">
+<tr> <td> <img src="https://bocaditos-quito.com/wp-content/uploads/2021/10/bocaditos-de-dulce-en-quito-1.jpg"width="1200"height="540">    </td> 
+</tr> 
+</table>
+<br><center> <h1> <font face="Perpetua"> <p style="color:Violet	;"> Tipos De Bocaditos </p> </font> </center> </h1> </br>
+<center><table border="0">
+ <tr>
+<td> <img src="1.jpg"width="280"height="300"> </td> 
+<td> <img src="2.png"width="280"height="300"> </td> 
+<td> <img src="3.jpg"width="280"height="290"> </td>
+</tr>
+<tr>
+<td> <img src="4.jpg"width="280"height="300"> </td> 
+<td> <img src="5.jpg"width="280"height="270"> </td>
+<td> <img src="6.jpg"width="280"height="290"> </td> 
+</tr>
+<tr>
+<td> <img src="7.jpg"width="280"height="300"> </td> 
+<td> <img src="8.jpg"width="280"height="270"> </td>
+<td> <img src="9.jpg"width="280"height="290"> </td> 
+</tr>
+</table> 
